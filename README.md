@@ -61,6 +61,7 @@ python -m scripts.generate_training_data --output_dir=data/METR-LA --traffic_df_
 python -m scripts.generate_training_data --output_dir=data/PEMS-BAY --traffic_df_filename=data/pems-bay.h5
 ```
 ![image](https://user-images.githubusercontent.com/32430028/141677278-00dca910-18da-450f-b304-0adfd484581a.png)
+![image](https://user-images.githubusercontent.com/32430028/141677667-dc296d80-f264-4b7f-a82d-1d9790b6ebcd.png)
 
 ## Graph Construction
  As the currently implementation is based on pre-calculated road network distances between sensors, it currently only
