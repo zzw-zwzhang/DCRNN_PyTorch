@@ -56,6 +56,7 @@ mkdir -p data/{METR-LA,PEMS-BAY}
 
 # METR-LA
 python -m scripts.generate_training_data --output_dir=data/METR-LA --traffic_df_filename=data/metr-la.h5
+![image](https://user-images.githubusercontent.com/32430028/141677278-00dca910-18da-450f-b304-0adfd484581a.png)
 
 # PEMS-BAY
 python -m scripts.generate_training_data --output_dir=data/PEMS-BAY --traffic_df_filename=data/pems-bay.h5
