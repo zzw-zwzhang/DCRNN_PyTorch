@@ -123,3 +123,7 @@ If you find this repository, e.g., the code and the datasets, useful in your res
   year={2018}
 }
 ```
+
+![image](https://user-images.githubusercontent.com/32430028/141683280-8747aedc-3a39-45b8-82f7-77101099d6e4.png)
+
+* scipy>=0.19.0
