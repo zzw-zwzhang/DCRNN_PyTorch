@@ -72,6 +72,9 @@ python -m scripts.gen_adj_mx  --sensor_ids_filename=data/sensor_graph/graph_sens
 ```
 Besides, the locations of sensors in Los Angeles, i.e., METR-LA, are available at [data/sensor_graph/graph_sensor_locations.csv](https://github.com/liyaguang/DCRNN/blob/master/data/sensor_graph/graph_sensor_locations.csv).
 
+![image](https://user-images.githubusercontent.com/32430028/142770947-0425bd69-a87c-48f5-a550-bd393660c14d.png)
+
+
 ## Run the Pre-trained Model on METR-LA
 
 ```bash
